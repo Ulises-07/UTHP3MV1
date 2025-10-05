@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UTHP3MV1</string>
+    <string name="apellidos">Apellido</string>
+    <string name="comboboxContacto">String comboboxContacto</string>
+    <string name="btnListaContacto">String listaContacto</string>
+</resources>
