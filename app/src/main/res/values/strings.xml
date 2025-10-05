@@ -3,4 +3,6 @@
     <string name="apellidos">Apellido</string>
     <string name="comboboxContacto">String comboboxContacto</string>
     <string name="btnListaContacto">String listaContacto</string>
+    <string name="agregar">Agregar</string>
+    <string name="todo">TODO</string>
 </resources>
