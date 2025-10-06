@@ -9,9 +9,6 @@ import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -26,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         nombres = (EditText) findViewById(R.id.nombres);
-        apellidos = (EditText) findViewById(R.id.apellido);
+        apellidos = (EditText) findViewById(R.id.apellidos);
         edad = (EditText) findViewById(R.id.edad);
         btnprocesar = (Button) findViewById(R.id.btnprocesar);
 
